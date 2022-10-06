@@ -1,4 +1,5 @@
 ﻿begin
+  var n:=readinteger('n');
   print('Скоро новый год');
-  print('365');
+  println(n*365);
 end.
